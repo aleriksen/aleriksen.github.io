@@ -1,8 +1,8 @@
-## Velkommen til Holdbar
+## Welcome to Holdbar (Expiry)
 
 ### Privacy policy
-Vi lagrer ingen data om deg. Data lagres kun lokalt og i din egen iCloud konto.
+We do not store any data about you. Data is only stored locally and in your own iCloud account
 
 ### Support
 
-Dersom det oppstår trøbbel, eller du har en annen henvendelse vennligst send en mail til aleriksen7@outlook.com
+If you encounter any issues or have another inquiry, please send an email to aleriksen7@outlook.com
